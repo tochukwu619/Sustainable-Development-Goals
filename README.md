@@ -20,6 +20,9 @@ The trend of sustainable development goals (SDGs) over a period of 2000 - 2022
 
 The project is on the analysis of dataset gotten from United Nations Sustainable Development Goals (SDGs) for 2000 to 2022 for various countries. The aim of the analysis is to identify the trends of the various SDGs for various countries.
 
+![SDG Dashboard](https://github.com/tochukwu619/Sustainable-Development-Goals/assets/125865918/eae0e153-f5df-48e0-815d-1b1682dc623f)
+
+
 ### DATA SOURCE
 
 The dataset used for this project was gotten from [Kaggle](https://www.kaggle.com/datasets/sazidthe1/sustainable-development-report) as at December 26, 2023.
